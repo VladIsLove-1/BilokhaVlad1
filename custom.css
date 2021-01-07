@@ -1,25 +1,31 @@
 body {
-    background-color: black;
+    background-color: #8f8787;
 }
 h1 {
     color: aqua;
 }
 .div1 {
+    background-color: brown;
     color:burlywood;
 }
 .div2 {
+    background-color: brown;
     margin-right: 20px;
     color:burlywood;
 }
 .div3 {
+    background-color: brown;
     color:burlywood; 
 }
 .div4 {
+    background-color: brown;
     color:burlywood;
 }
 .div5 {
+    background-color: brown;
     color:burlywood;
 }
 .div6 {
+    background-color: brown;
     color:burlywood;
 }
