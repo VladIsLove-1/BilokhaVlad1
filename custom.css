@@ -1,7 +1,25 @@
-body
-{
+body {
     background-color: black;
 }
-p{
-    color: red;
+h1 {
+    color: aqua;
+}
+.div1 {
+    color:burlywood;
+}
+.div2 {
+    margin-right: 20px;
+    color:burlywood;
+}
+.div3 {
+    color:burlywood; 
+}
+.div4 {
+    color:burlywood;
+}
+.div5 {
+    color:burlywood;
+}
+.div6 {
+    color:burlywood;
 }
