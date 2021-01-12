@@ -27,7 +27,7 @@ header {
 	display: block;
 	width: 180px;
 	height: 45px;
-	text-align: right;
+	text-align: center;
 	background-color: #222;
 	padding-top: 15px;
 
@@ -48,44 +48,3 @@ background-color: #333;
 	float: left;
 	
 }
-.flex_cont {
-	display: flex;
-	margin: 160px auto;
-	width: 1300px;
-	
-	
-}
-.flex_box {
-	width: 570px;
-	height: 540px;
-	display: flex;
-	flex-direction: column;
-	margin-right: 40px;
-}
-.flex_box h1 {
-	width: 570px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight: 800;
-	font-size: 60px;
-}
-.flex_box p {
-	width: 570px;
-	margin:45px 0px 45px 0px;
-	font-family: 'Montserrat', sans-serif;
-	font-size: 12px;
-	line-height: 2;
-	/* height: 55px; */
-	
-}
-.flex_box2{
-	display: flex;
-	width: 570px;
-	height: 540px;
-	background-color: #e2e2e2;
-}
-.button{
-	width: 180px;
-	height: 50px ;
-	background-color: #ffe100;
-	border: none;
-	}
