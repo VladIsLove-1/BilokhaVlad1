@@ -1,7 +1,9 @@
 *,html,body{padding: 0px; margin: 0px;}
-/* body{
-	background-color: aquamarine;
-} */
+
+body{
+	background-image: url(./img/иллюстрация-лимона-ткани-предпосылка-обои-ткань-безшовная-yellow-обоев-148818700.jpg);
+}
+ 
 
 .menu_top{
 	display: flex;
@@ -18,20 +20,24 @@
 }
 
 .menu ul{
+	
 	display: flex;
 	flex-direction: row;
 	
 }
 
 .menu ul li{
+
 	display: flex;
 	width: 100px;
 }
 
 .menu_top ul{
+
 	list-style: none;
 }
 .menu_top ul li{
+
 	list-style-type:none ;
 }
 	
@@ -50,6 +56,10 @@
 	margin-right: 40px;
 }
 .flex_box h1 {
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+	background-image: url(./img/macro-oranges-texture-slices-wallpaper-preview.jpg );
 	width: 570px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 800;
@@ -61,14 +71,19 @@
 	font-family: 'Montserrat', sans-serif;
 	font-size: 12px;
 	line-height: 2;
-	/* height: 55px; */
 	
 }
 .flex_box2{
+	border-style: solid;
+	border-width: 5px;
 	display: flex;
-	width: 570px;
+    width: 487px;
 	height: 540px;
-	background-color: #e2e2e2;
+	background-size: 488px 634px;
+	background-image: url(./img/photo_2021-01-16_15-34-58.jpg);
+	background-attachment: fixed;
+
+
 }
 .button{
 	width: 180px;
