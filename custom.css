@@ -12,41 +12,32 @@ body{
 	justify-content: space-between;
 }
 .menu {
-	
-	/* margin: auto; */
-	
 	height: 50px;
 
 }
-
 .menu ul{
-	
 	display: flex;
 	flex-direction: row;
 	
 }
-
 .menu ul li{
-
 	display: flex;
 	width: 100px;
 }
-
+.menu ul li a{
+	text-decoration: none;
+	color: black;
+}
 .menu_top ul{
-
 	list-style: none;
 }
 .menu_top ul li{
-
 	list-style-type:none ;
 }
-	
 .flex_cont {
 	display: flex;
 	margin: 160px auto;
-	width: 1180px;
-	
-	
+	width: 1180px;	
 }
 .flex_box {
 	width: 570px;
@@ -56,6 +47,7 @@ body{
 	margin-right: 40px;
 }
 .flex_box h1 {
+	text-decoration:none;
 	border-style: solid;
 	border-width: 5px;
 	border-color: black;
@@ -82,8 +74,6 @@ body{
 	background-size: 488px 634px;
 	background-image: url(./img/photo_2021-01-16_15-34-58.jpg);
 	background-attachment: fixed;
-
-
 }
 .button{
 	width: 180px;
@@ -92,4 +82,4 @@ body{
 	border: none;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: medium;
-	}
+}
